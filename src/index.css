@@ -19,7 +19,9 @@
   @tailwind utilities;
 }
 
-
+body{
+  background-color: black;
+}
 .customBg {
     background-image: url('../../NetflixClone/src/assets/image/homePagebg.jpg');
     background-size: cover;
